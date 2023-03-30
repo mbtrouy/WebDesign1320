@@ -14,11 +14,11 @@ header{
     width: 30 %;
 
  }
- nav <{
+ nav {
     background-color: #C28127;
     padding: 20 px;
     text-align: center;
- }>
+ }
  nav a <{color: #FFB44E;
 font-size: 28 px;
 margin: 0 20 px;
