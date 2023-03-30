@@ -1,6 +1,5 @@
-html<{background-color: #FFB44E;
-}>
-body<{background-color: #5A33B0;
+html{background-color: #C28127;}
+body{background-color: #5A33B0;
 width: 960 px;
 margin: 20 px auto; 
 }>
@@ -23,7 +22,7 @@ header{
 font-size: 28 px;
 margin: 0 20 px;
 }>
-nav a <:hover{color: #5A33B0;
+nav a :hover{color: #5A33B0;
 text-decoration: none;
 }>
 
