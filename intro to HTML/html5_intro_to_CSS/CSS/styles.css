@@ -18,7 +18,7 @@ header{
     padding: 20 px;
     text-align: center;
  }
- nav a <{color: #FFB44E;
+ nav a {color: #FFB44E;
 font-size: 28 px;
 margin: 0 20 px;
 }>
@@ -35,11 +35,12 @@ padding:20 px;
  main img{
     display: block;
     margins: 20px auto;
-    width: 35%;
+    width: 15
+    %;
 
  }
  footer {background-color: #C28127;
 text-align: center;
 padding: 40px 0;
 }
-h1, h2, h3 {color: antiquewhite;}
+h1, h2, h3 {color: rgb(138, 66, 14);}
