@@ -20,6 +20,7 @@ h1, h2, h3 {
     width: 75%;
     margin: 20px auto;
     border: 6px double #2EADF2;
+    border-radius: 25px;
 }
 
 nav {
@@ -92,10 +93,9 @@ aside {
 }
 
 footer {
-    background-color: #2EADF2;
+    background-color: #FC8A30;s
     text-align: center;
     padding: 40px 0;
-    color: #30FC52;
     font-weight: bold;
 }
 
