@@ -178,6 +178,10 @@ border: 0px;
     border-radius: 5px;
 }
 
+#lower_area {
+    display: flex;
+}
+
 .single_page {
 width: 100%;
 }
