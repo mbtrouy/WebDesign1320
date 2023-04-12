@@ -157,7 +157,7 @@ border: 4px solid #E34640;
 
 }
 
-@media{min-width: 1024px} {
+@media(min-width: 1024px) {
 #container {
     width: 65%;
     margin: 20px auto;
