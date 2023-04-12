@@ -157,7 +157,7 @@ border: 4px solid #E34640;
 
 }
 
-@media {min-width: 1024px} {
+@media{min-width: 1024px} {
 #container {
     width: 65%;
     margin: 20px auto;
@@ -178,9 +178,6 @@ border: 0px;
     border-radius: 5px;
 }
 
-#lower_area {
-    display: flex;
-}
 
 .single_page {
 width: 100%;
