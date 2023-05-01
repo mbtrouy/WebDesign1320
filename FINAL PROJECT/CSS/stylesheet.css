@@ -131,13 +131,7 @@ border-radius: 10px;
         border: 2px solid #ffffff;
         border-radius: 10px;
 
-        section {
-            width: 75%;
-        }
-
-        aside {
-            width: 25%;
-        }
+       
     }
 .col img {
     width: 45%;
